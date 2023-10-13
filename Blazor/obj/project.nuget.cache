@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qCtubX0rrPTv4xfceMpBH8ALQu+IUG/M9WIRjEw4r4sw8NFw5yVwLBT285qjiVtlS7wyWMwAmxIztfQ8MxbMyQ==",
+  "dgSpecHash": "+Vsl90A5PgLsVQYaQv3N9L9o4wtU0MbdtiefISz4kuZGysx7ZcQA5I6qLsk2nn0LnigjXSagDypNUAWGN1v/+A==",
   "success": true,
-  "projectFilePath": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\blazer\\project\\Blazor\\Blazor\\Blazor.csproj",
+  "projectFilePath": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\github action\\blazor -git\\BlazorApp\\Blazor\\Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joeld\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\joeld\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",

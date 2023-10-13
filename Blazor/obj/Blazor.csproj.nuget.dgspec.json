@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\blazer\\project\\Blazor\\Blazor\\Blazor.csproj": {}
+    "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\github action\\blazor -git\\BlazorApp\\Blazor\\Blazor.csproj": {}
   },
   "projects": {
-    "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\blazer\\project\\Blazor\\Blazor\\Blazor.csproj": {
+    "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\github action\\blazor -git\\BlazorApp\\Blazor\\Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\blazer\\project\\Blazor\\Blazor\\Blazor.csproj",
+        "projectUniqueName": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\github action\\blazor -git\\BlazorApp\\Blazor\\Blazor.csproj",
         "projectName": "Blazor",
-        "projectPath": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\blazer\\project\\Blazor\\Blazor\\Blazor.csproj",
+        "projectPath": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\github action\\blazor -git\\BlazorApp\\Blazor\\Blazor.csproj",
         "packagesPath": "C:\\Users\\joeld\\.nuget\\packages\\",
-        "outputPath": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\blazer\\project\\Blazor\\Blazor\\obj\\",
+        "outputPath": "C:\\oude_F\\joël\\Thomas More\\IT-challenges 3\\github action\\blazor -git\\BlazorApp\\Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joeld\\AppData\\Roaming\\NuGet\\NuGet.Config",
